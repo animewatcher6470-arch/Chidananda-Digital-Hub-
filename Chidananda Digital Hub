@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chidananda Digital Hub</title>
+  <style>
+    body{
+      font-family: Arial;
+      text-align:center;
+      background:#f2f2f2;
+      padding:50px;
+    }
+    h1{
+      color:#0077ff;
+    }
+    .btn{
+      display:inline-block;
+      padding:12px 25px;
+      background:#25D366;
+      color:white;
+      text-decoration:none;
+      border-radius:8px;
+      margin-top:20px;
+    }
+  </style>
